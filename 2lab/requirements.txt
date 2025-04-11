@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+SQLAlchemy
+alembic
+pydantic
+python-jose
+passlib[bcrypt]
+python-multipart
+pillow
+redis
+celery
+python-dotenv
+numpy
+opencv-python
+email-validator
